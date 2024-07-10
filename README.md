@@ -23,3 +23,5 @@ SCREENSHOTS:
 ![image](https://github.com/RACER0617/SILENT_HILL_Remake_StudentProject/assets/116666344/48098e3c-923f-4aa5-ba2c-ec4515f155db)
 
 
+![image](https://github.com/RACER0617/SILENT_HILL_Remake_StudentProject/assets/116666344/2b81d692-2601-4c49-b527-3788b6bbd233)
+
